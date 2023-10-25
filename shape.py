@@ -11,3 +11,10 @@
 #   [1,1,9,4]]]
 
 #TENSOR an object that can be represented as an array(it is not just an array)
+
+#Dot product results in a scalar single value. 
+# a= [1,2,3]
+# b = [2,3,4]
+
+# dot_product = a[0]*b[0] + a[1]*b[1] + a[2]*b[2]
+# 20
