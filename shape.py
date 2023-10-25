@@ -9,3 +9,5 @@
 #   [6,4,8,4]],
 #  [[2,8,5,3],
 #   [1,1,9,4]]]
+
+#TENSOR an object that can be represented as an array(it is not just an array)
