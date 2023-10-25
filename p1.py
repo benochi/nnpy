@@ -1,5 +1,5 @@
 #neuron example
-inputs = [1, 2, 3, 2.5]
+inputs = [1, 2, 3, 2.5] #inputs don't change, you change weights.  inputs represent data passed into NN. 
 
 weight1 = [0.2, 0.8, -0.5, 1.0]
 weight2 = [0.5, -0.91, 0.26, -0.5]
